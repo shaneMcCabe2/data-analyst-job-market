@@ -8,3 +8,11 @@ data/processed/*.csv
 # Archive folder
 archive/
 *.db
+
+.env
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.vscode/
+*.log
