@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+kaggle = "*"
+matplotlib = "*"
+numpy = "*"
+pandas = "*"
+plotly = "*"
+kaleido = "*"
+fuzzywuzzy = "*"
+python-levenshtein = "*"
+scikit-learn = "*"
+python-dotenv = "*"
+beautifulsoup4 = "*"
+lxml = "*"
+requests = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"

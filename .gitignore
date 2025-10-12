@@ -1,0 +1,10 @@
+
+# Data files
+data/raw/
+data/processed/*.csv
+*.zip
+
+
+# Archive folder
+archive/
+*.db
