@@ -1,0 +1,5 @@
+region,mean_salary,median_salary,std_salary,min_salary,max_salary,job_count
+Northeast,117321.0,110957.0,45804.0,28.0,225000.0,118
+West,85056.0,89812.0,54311.0,15.0,230305.0,553
+South,82277.0,96500.0,46462.0,15.0,226995.0,420
+Midwest,71558.0,85075.0,51530.0,15.0,200000.0,524

@@ -5,10 +5,6 @@ name = "pypi"
 
 [packages]
 kaggle = "*"
-matplotlib = "*"
-numpy = "*"
-pandas = "*"
-plotly = "*"
 kaleido = "*"
 fuzzywuzzy = "*"
 python-levenshtein = "*"
@@ -17,6 +13,12 @@ python-dotenv = "*"
 beautifulsoup4 = "*"
 lxml = "*"
 requests = "*"
+pandas = "*"
+numpy = "*"
+plotly = "*"
+jupyter = "*"
+matplotlib = "*"
+seaborn = "*"
 
 [dev-packages]
 
