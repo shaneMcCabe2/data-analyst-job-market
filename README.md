@@ -3,7 +3,7 @@
 **[View Complete Analysis](notebooks/data_analyst_job_market_analysis.ipynb)**
 
 ## Project Overview
-Analysis of 10,000+ data analyst job postings to identify high-value skills and optimal career strategies.
+Analysis of 45,000+ data analyst job postings to identify high-value skills and optimal career strategies.
 
 ## Key Findings
 - **Experience vs Skills:** Experience is the strongest salary predictor (r=0.332)
