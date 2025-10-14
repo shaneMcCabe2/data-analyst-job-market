@@ -19,6 +19,7 @@ Python, Pandas, Plotly, SciPy, Statistical Analysis
 - `notebooks/`: Jupyter analysis notebooks
 - `data/`: Raw and processed datasets
 - `outputs/`: Visualization exports
+- `scripts/`: Pipeline scripts
 
 ## Sample Visualizations
 <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/3b990cb4-c675-4de2-b3ae-926c3f9b2692" />
