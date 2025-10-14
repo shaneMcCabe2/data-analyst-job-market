@@ -1,6 +1,6 @@
 # Data Analyst Job Market Analysis
 
-**[View Complete Analysis](notebooks/data-analyst-job-market-analysis.ipynb)**
+**[View Complete Analysis](notebooks/data_analyst_job_market_analysis.ipynb)**
 
 ## Project Overview
 Analysis of 10,000+ data analyst job postings to identify high-value skills and optimal career strategies.
