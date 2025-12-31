@@ -46,9 +46,9 @@ jupyter notebook notebooks/data_analyst_job_market_analysis.ipynb
 
 ## Repository Structure
 ```
-├── notebooks/              # Jupyter notebooks with full analysis
-├── data/                   # Raw and processed datasets
-├── src/                    # Reusable Python modules
+├── notebooks/             # Jupyter notebooks with full analysis
+├── data/                  # Raw and processed datasets
+├── src/                   # Reusable Python modules
 │   ├── data/              # Data loading and processing
 │   ├── features/          # Feature engineering
 │   ├── models/            # Statistical models
@@ -69,6 +69,6 @@ jupyter notebook notebooks/data_analyst_job_market_analysis.ipynb
 
 ## Contact
 **Shane McCabe**  
-[GitHub](https://github.com/shaneMcCabe2) | [LinkedIn](https://www.linkedin.com/in/shane-mccabe/)
+[GitHub](https://github.com/shaneMcCabe2) | [LinkedIn](https://www.linkedin.com/in/shane-mccabe-54aaa239a/)
 
 
