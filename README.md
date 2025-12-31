@@ -1,5 +1,5 @@
 # Data Analyst Job Market Analysis 
-## [Link to Complete Analysis](https://github.com/shaneMcCabe2/data-analyst-job-market/blob/main/notebooks/data_analyst_job_market_analysis.ipynb)
+## [Link to Complete Analysis](https://github.com/shaneMcCabe2/data-analyst-job-market/blob/main/notebooks/data_analyst_job_market_analysis.ipynb) | [Link to Streamlit Dashboard](https://data-analyst-job-market-7m8tuqx7uuxqguzq87kro3.streamlit.app/)
 
 ## Business Problem
 With 200,000+ monthly data analyst job postings, candidates lack clear guidance on which skills deliver salary returns and optimal career progression strategies.
@@ -30,8 +30,20 @@ Analyzed 46,000+ job postings using:
 - Developed percentile-based outlier detection (preserved 95th percentile, removed clear errors)
 - Used partial correlation to isolate skill effects from experience confounding
 
+## Interactive Dashboard
+
+**[View Live Dashboard](https://data-analyst-job-market-7m8tuqx7uuxqguzq87kro3.streamlit.app/)** 
+
+Explore the analysis through an interactive Streamlit dashboard featuring:
+- Executive summary with key metrics
+- Skills analysis and salary premiums
+- Geographic trends and insights
+- Experience level breakdowns
+- Detailed methodology
+
 ## How to Run
 
+**Option 1: Interactive Dashboard**
 ```bash
 # Clone the repository
 git clone https://github.com/shaneMcCabe2/data-analyst-job-market.git
@@ -40,12 +52,19 @@ cd data-analyst-job-market
 # Install dependencies
 pip install -r requirements.txt
 
-# Open the analysis notebook
+# Launch dashboard
+streamlit run app.py
+```
+
+**Option 2: Jupyter Notebook**
+```bash
+# Open the detailed analysis
 jupyter notebook notebooks/data_analyst_job_market_analysis.ipynb
 ```
 
 ## Repository Structure
 ```
+├── app.py                 # Interactive Streamlit dashboard
 ├── notebooks/             # Jupyter notebooks with full analysis
 ├── data/                  # Raw and processed datasets
 ├── src/                   # Reusable Python modules
@@ -69,6 +88,4 @@ jupyter notebook notebooks/data_analyst_job_market_analysis.ipynb
 
 ## Contact
 **Shane McCabe**  
-[GitHub](https://github.com/shaneMcCabe2) | [LinkedIn](https://www.linkedin.com/in/shane-mccabe-54aaa239a/)
-
-
+[GitHub](https://github.com/shaneMcCabe2) | [LinkedIn]([https://www.linkedin.com/in/shane-mccabe/](https://www.linkedin.com/in/shane-mccabe-54aaa239a/))
