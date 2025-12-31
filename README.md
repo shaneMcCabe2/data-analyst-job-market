@@ -30,22 +30,45 @@ Analyzed 46,000+ job postings using:
 - Developed percentile-based outlier detection (preserved 95th percentile, removed clear errors)
 - Used partial correlation to isolate skill effects from experience confounding
 
+## How to Run
+
+```bash
+# Clone the repository
+git clone https://github.com/shaneMcCabe2/data-analyst-job-market.git
+cd data-analyst-job-market
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Open the analysis notebook
+jupyter notebook notebooks/data_analyst_job_market_analysis.ipynb
+```
+
 ## Repository Structure
 ```
-├── notebooks/          # Full analysis with methodology
-├── data/              # Raw and processed datasets  
-├── src/               # Reusable analysis functions
-└── outputs/           # Final visualizations
+├── notebooks/              # Jupyter notebooks with full analysis
+├── data/                   # Raw and processed datasets
+├── src/                    # Reusable Python modules
+│   ├── data/              # Data loading and processing
+│   ├── features/          # Feature engineering
+│   ├── models/            # Statistical models
+│   └── utils/             # Helper functions
+├── outputs/               
+│   └── visualizations/    # All generated charts and graphs
+├── scripts/               # Data collection and ETL scripts
+└── docs/                  # Project documentation
 ```
 
 ## Sample Outputs
-
 
 <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/3b990cb4-c675-4de2-b3ae-926c3f9b2692" />
 
 <img width="1123" height="1016" alt="image" src="https://github.com/user-attachments/assets/5ad24a2f-b346-4bf6-afaf-0a0bd83f331d" />
 
-<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/0382642c-acef-46f0-98c8-94c6ce011802" />  
+<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/0382642c-acef-46f0-98c8-94c6ce011802" />
 
+## Contact
+**Shane McCabe**  
+[GitHub](https://github.com/shaneMcCabe2) | [LinkedIn](https://www.linkedin.com/in/shane-mccabe/)
 
 
