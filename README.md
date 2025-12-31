@@ -1,4 +1,5 @@
-# Data Analyst Job Market Analysis
+# Data Analyst Job Market Analysis 
+## [Link to Complete Analysis](https://github.com/shaneMcCabe2/data-analyst-job-market/blob/main/notebooks/data_analyst_job_market_analysis.ipynb)
 
 ## Business Problem
 With 200,000+ monthly data analyst job postings, candidates lack clear guidance on which skills deliver salary returns and optimal career progression strategies.
